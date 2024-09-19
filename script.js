@@ -1,1 +1,1 @@
-console.log("Hello js");
+console.log("Edited code of Hello js");
